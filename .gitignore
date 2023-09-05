@@ -6,3 +6,4 @@ datasets/SIDD/
 experiments/
 results/
 .idea/
+.eggs/
