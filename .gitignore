@@ -8,3 +8,5 @@ results/
 .idea/
 .eggs/
 basicsr.egg-info/
+.vscode/
+datasets/
